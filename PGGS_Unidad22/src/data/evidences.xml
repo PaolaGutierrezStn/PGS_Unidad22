@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<evidences>
+	<evidence>
+		<id>evi00002</id>
+		<code>ty</code>
+		<associationId>777</associationId>
+		<dbxrefId>66</dbxrefId>
+		<seqAcc>ty</seqAcc>
+	</evidence>
+
+<evidence>
+<id>evi00001</id>
+<code>p</code>
+<associationId>2</associationId>
+<dbxrefId>2</dbxrefId>
+<seqAcc>p</seqAcc>
+</evidence>
+</evidences>
